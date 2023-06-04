@@ -1,0 +1,50 @@
+.Wrapper {
+        border: 1px solid black;
+        height: 400px;
+        width: 400px;
+        margin: auto;
+        padding: 10px;
+        text-align: center;
+        margin-top: 225px;
+        
+}
+p {
+        font-weight: bold;
+        font-size: 40px;
+}
+#tvp{
+        font-size: 25px;
+}
+.btn-sec{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 50%;
+        margin: auto;
+}
+.Increment{
+        font-size: 20px;
+        height: 32px;
+        font-weight: bold;
+        border-radius: 5px;
+        background-color:black;
+        color: white;
+}
+.Decrement{
+        font-size: 20px;
+        margin-top: 4px;
+        height: 32px;
+        font-weight: bold;      
+        border-radius: 5px;
+        background-color: red;
+        color: white;
+}
+.Save{
+        font-size: 20px;
+        margin-top: 4px;
+        height: 32px;
+        font-weight: bold;      
+        border-radius: 5px;
+        background-color: Green;
+        color: white;
+}
